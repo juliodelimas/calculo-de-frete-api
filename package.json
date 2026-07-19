@@ -1,0 +1,21 @@
+{
+  "name": "calculo-de-frete-api",
+  "version": "1.0.0",
+  "description": "API didatica de calculo de frete com defeitos funcionais intencionais para demonstrar code review funcional com IA.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node src/server.js"
+  },
+  "keywords": [
+    "frete",
+    "code-review",
+    "qa",
+    "shift-left"
+  ],
+  "author": "Julio de Lima",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
